@@ -1,4 +1,4 @@
-**Discurso Técnico para Teste de Analista de Dados - Criação de Dashboard no Power BI**
+**Desafio Técnico para Analista de Dados - Criação de Dashboard no Power BI**
 
 ---
 Bem-vindo(a) ao teste prático para a posição de Analista de Dados. Neste teste, estamos interessados em avaliar suas habilidades na criação de dashboards utilizando o Power BI, com foco em integrar e visualizar dados relacionados a alunos, matérias e notas.
@@ -51,6 +51,7 @@ Construir um dashboard informativo que forneça insights sobre o desempenho acad
 **Instruções Adicionais:**
 - Utilize as funcionalidades avançadas do Power BI, como medidas calculadas, relações entre tabelas, e hierarquias para aprimorar a interatividade.
 - Certifique-se de que o design do dashboard seja limpo, intuitivo e capaz de contar uma história visual sobre os dados apresentados.
+- Execute o arquivo docker-compose.yml para criar as bases de dados já com os dados necessarios para criação do dashboard
 
 **Prazo:**
 Pedimos que você conclua o teste dentro de 8 dias após a data de envio. Se precisar de alguma informação adicional ou esclarecimento, sinta-se à vontade para entrar em contato.
